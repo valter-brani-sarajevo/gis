@@ -13,9 +13,9 @@
 { "type": "Feature", "properties": { "Name": "kamere", "Description": "usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4557901, 44.7497349 ] } },
 { "type": "Feature", "properties": { "Name": "kamere", "Description": "360° + 1 usmerena" }, "geometry": { "type": "Point", "coordinates": [ 20.4551794, 44.7523879 ] } },
 { "type": "Feature", "properties": { "Name": "kamere", "Description": "usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4570511, 44.7547351 ] } },
-{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360° + usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4609688, 44.7573159 ] } },
-{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360° i usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4411035, 44.7429646 ] } },
-{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360°" }, "geometry": { "type": "Point", "coordinates": [ 20.4383402, 44.7382243 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360° + usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.461023842343966, 44.757316551084003 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360° i usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.441070887384296, 44.742963652210605 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360°" }, "geometry": { "type": "Point", "coordinates": [ 20.438370988005254, 44.738202398875742 ] } },
 { "type": "Feature", "properties": { "Name": "kamere", "Description": "360° + 1 usmerena" }, "geometry": { "type": "Point", "coordinates": [ 20.447425, 44.756632 ] } }
 ]
 }
