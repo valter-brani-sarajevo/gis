@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "prelazi",
+"features": [
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.447832, 44.7443764 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4274167, 44.7454722 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.428005, 44.745914 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4480107, 44.7459554 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4570915, 44.7582427 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4553336, 44.7576601 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4545283, 44.757571 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4525874, 44.7570458 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4500963, 44.756464 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4487854, 44.7564074 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4485413, 44.756405 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4477644, 44.7565887 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4436523, 44.7467059 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4414016, 44.7437862 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4360727, 44.7391286 ] } },
+{ "type": "Feature", "properties": { "Name": "prelaz", "Description": null }, "geometry": { "type": "Point", "coordinates": [ 20.4342934, 44.7391143 ] } }
+]
+}

@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "kamere",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "24sedam.rs javna" }, "geometry": { "type": "Point", "coordinates": [ 20.4466633, 44.7589465 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4437704, 44.74335 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360° + usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4253025, 44.7434803 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4474501, 44.7441643 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4394874, 44.7453794 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360°" }, "geometry": { "type": "Point", "coordinates": [ 20.4303519, 44.7478454 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4496198, 44.7481229 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4557901, 44.7497349 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360° + 1 usmerena" }, "geometry": { "type": "Point", "coordinates": [ 20.4551794, 44.7523879 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4570511, 44.7547351 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360° + usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4609688, 44.7573159 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360° i usmerene" }, "geometry": { "type": "Point", "coordinates": [ 20.4411035, 44.7429646 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360°" }, "geometry": { "type": "Point", "coordinates": [ 20.4383402, 44.7382243 ] } },
+{ "type": "Feature", "properties": { "Name": "kamere", "Description": "360° + 1 usmerena" }, "geometry": { "type": "Point", "coordinates": [ 20.447425, 44.756632 ] } }
+]
+}
